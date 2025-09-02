@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Eliel Filho!
+<h2>👋 Olá, eu sou o Eliel Filho!</h2>
 <p align="left">
 <a href="mailto:elielfilho9@outlook.com"><img src="https://img.shields.io/badge/Email-elielfilho9@outlook.com-blue?style=for-the-badge&logo=microsoftoutlook" alt="Email"></a>
 <a href="https://www.instagram.com/elielfilho.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40elielfilho.dev-purple?style=for-the-badge&logo=instagram" alt="Instagram"></a>
@@ -32,15 +32,18 @@ Estou constantemente aprendendo e expandindo meu arsenal de tecnologias. Atualme
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-
+<br>
 <!-- Backend -->
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<br>
 <!-- Tools -->
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
