@@ -39,10 +39,10 @@
 <!-- Links rápidos -->
 <p>
   <a href="https://www.linkedin.com/in/eliel-filho-8083a3359/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-SEU_USUARIO-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-eliel-filho-8083a3359?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:elielfilho9@outlook.com">
-    <img src="https://img.shields.io/badge/Email-seuemail@dominio.com-4A154B?style=flat&logo=minutemailer&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-elielfilhodev@hotmail.com-4A154B?style=flat&logo=minutemailer&logoColor=white"/>
   </a>
   <a href="https://elielfilho.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-Online-111111?style=flat&logo=vercel&logoColor=white"/>
@@ -55,15 +55,9 @@
 <h3>Metrics</h3>
 
 <!-- Streak (DenverCoder1) -->
-<p>
-  <img height="170" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 <!-- Stats + Linguagens (anuraghazra) -->
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true" alt="Top Langs"/>
-</p>
+
 
 <!-- Trophies (opcional) -->
 <!--
