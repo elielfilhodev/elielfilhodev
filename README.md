@@ -13,7 +13,7 @@
   <li>📍 Vivo em <b>Taquarituba, Brasil</b></li>
   <li>📚 Lifelong learner</li>
   <li>🎬 No tempo livre: séries, filmes e livros</li>
-  <li>🎮</li>
+  <li>🎮 Gamer Amador</li>
 </ul>
 
 <!-- Skills: devicon (cdn.jsdelivr) -->
