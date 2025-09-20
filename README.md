@@ -1,55 +1,94 @@
-<h2>👋 Olá, eu sou o Eliel Filho!</h2>
+<!-- Título / Saudações -->
+<h1 align="left">Hello 🌍!</h1>
+
+<!-- Bio curta PT/EN -->
 <p align="left">
-<a href="mailto:elielfilho9@outlook.com"><img src="https://img.shields.io/badge/Email-elielfilho9@outlook.com-blue?style=for-the-badge&logo=microsoftoutlook" alt="Email"></a>
-<a href="https://www.instagram.com/elielfilho.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40elielfilho.dev-purple?style=for-the-badge&logo=instagram" alt="Instagram"></a>
+  🇧🇷 Sou desenvolvedor(a) FrontEnd focado(a) em React com TypeScript. Em 2020, fiz uma grande mudança na carreira e venho construindo produtos com foco em UX, performance e acessibilidade.
+  <br/>
+  🇺🇸 I'm a FrontEnd Developer focused on React + TypeScript. I love clean UI, smooth DX, and shipping well-tested features.
 </p>
 
-Sou um desenvolvedor Full Stack em formação, apaixonado por tecnologia, games e por encontrar soluções criativas para problemas complexos. Aos 21 anos, estou focado em construir uma carreira sólida na área de desenvolvimento, combinando minha experiência prática com um aprendizado contínuo e dedicado.
+<!-- Facts em bullets -->
+<ul>
+  <li>📍 Vivo em <b>Sua Cidade, País</b></li>
+  <li>📚 Lifelong learner</li>
+  <li>🎬 No tempo livre: séries, filmes e livros</li>
+  <li>🏃 Corredor(a) amador(a)</li>
+</ul>
 
-Atualmente, estou aprimorando minhas habilidades no curso Full Stack Java na EBAC, mergulhando tanto no universo do front-end quanto no back-end. Sou casado com a Adna Proença, que me dá todo o apoio nessa jornada!
-
-🌱 O que estou estudando:
-Front-End: Criando interfaces dinâmicas e responsivas.
-
-Back-End: Construindo a lógica e a base de dados que sustentam as aplicações.
-
-Boas Práticas: Versionamento de código com Git e metodologias ágeis.
-
-🚀 Minha Jornada até Aqui
-Minha trajetória começou na ETEC, onde me formei no Ensino Médio integrado ao curso técnico em Análise e Desenvolvimento de Sistemas (ADS). Essa base foi fundamental para despertar meu interesse e me dar o conhecimento inicial para seguir na área.
-
-Tive também uma experiência valiosa na Equipe Informática, onde trabalhei com manutenção de computadores e notebooks. Essa vivência me ensinou muito sobre resolução de problemas e a importância de entender o hardware por trás do software.
-
-🛠️ Tecnologias e Ferramentas
-Estou constantemente aprendendo e expandindo meu arsenal de tecnologias. Atualmente, meu foco está em:
-
+<!-- Skills: devicon (cdn.jsdelivr) -->
+<h3>Skills</h3>
 <p align="left">
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-<br>
-<!-- Backend -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<br>
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 </p>
 
-📫 Vamos nos Conectar!
-Estou sempre aberto a novas conexões, projetos e oportunidades de aprendizado. Sinta-se à vontade para entrar em contato!
+<!-- Badges / metas -->
+<p>
+  <img src="https://img.shields.io/badge/Goal-AWS%20Developer%20Associate-FF9900?style=flat&logo=amazon-aws" alt="Goal AWS"/>
+  <img src="https://img.shields.io/badge/Focus-React%20%26%20TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="Focus"/>
+</p>
 
-E-mail: elielfilho9@outlook.com
+<!-- Links rápidos -->
+<p>
+  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-SEU_USUARIO-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@dominio.com">
+    <img src="https://img.shields.io/badge/Email-seuemail@dominio.com-4A154B?style=flat&logo=minutemailer&logoColor=white"/>
+  </a>
+  <a href="https://SEU_USUARIO.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-Online-111111?style=flat&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-Instagram: @elielfilho.dev
+---
+
+<!-- Métricas / Cards (troque SEU_USUARIO) -->
+<h3>Metrics</h3>
+
+<!-- Streak (DenverCoder1) -->
+<p>
+  <img height="170" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<!-- Stats + Linguagens (anuraghazra) -->
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true" alt="Top Langs"/>
+</p>
+
+<!-- Trophies (opcional) -->
+<!--
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=flat&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+-->
+
+---
+
+<!-- Seções extras -->
+### Projetos em destaque
+- 🔹 [Projeto A](https://github.com/SEU_USUARIO/projeto-a) — descrição curta
+- 🔹 [Projeto B](https://github.com/SEU_USUARIO/projeto-b) — descrição curta
+
+### O que estou estudando
+- AWS (certificação DVA), testes com Vitest/RTL, CI/CD com GitHub Actions.
+
+### Curiosidades
+- Amo componentizar UI, obsessão saudável por acessibilidade e cores HSL 🎨
+
+<!-- Rodapé -->
+<p align="left">
+  <em>Feito com ❤️ e café. Atualizado automaticamente quando lembro.</em>
+</p>
