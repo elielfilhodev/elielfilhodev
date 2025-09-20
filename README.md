@@ -3,17 +3,17 @@
 
 <!-- Bio curta PT/EN -->
 <p align="left">
-  🇧🇷 Sou desenvolvedor(a) FrontEnd focado(a) em React com TypeScript. Em 2020, fiz uma grande mudança na carreira e venho construindo produtos com foco em UX, performance e acessibilidade.
+  🇧🇷 Sou desenvolvedor Full Stack focado em front e back. Em 2024, fiz uma grande mudança na carreira e venho construindo produtos com foco em UX, performance e acessibilidade.
   <br/>
-  🇺🇸 I'm a FrontEnd Developer focused on React + TypeScript. I love clean UI, smooth DX, and shipping well-tested features.
+  🇺🇸 I'm a Full Stack Developer focused on front + back. I love clean UI, smooth DX, and shipping well-tested features.
 </p>
 
 <!-- Facts em bullets -->
 <ul>
-  <li>📍 Vivo em <b>Sua Cidade, País</b></li>
+  <li>📍 Vivo em <b>Taquarituba, Brasil</b></li>
   <li>📚 Lifelong learner</li>
   <li>🎬 No tempo livre: séries, filmes e livros</li>
-  <li>🏃 Corredor(a) amador(a)</li>
+  <li>🎮</li>
 </ul>
 
 <!-- Skills: devicon (cdn.jsdelivr) -->
@@ -24,11 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 </p>
@@ -41,13 +38,13 @@
 
 <!-- Links rápidos -->
 <p>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/eliel-filho-8083a3359/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-SEU_USUARIO-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@dominio.com">
+  <a href="mailto:elielfilho9@outlook.com">
     <img src="https://img.shields.io/badge/Email-seuemail@dominio.com-4A154B?style=flat&logo=minutemailer&logoColor=white"/>
   </a>
-  <a href="https://SEU_USUARIO.github.io" target="_blank">
+  <a href="https://elielfilho.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-Online-111111?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -78,9 +75,6 @@
 ---
 
 <!-- Seções extras -->
-### Projetos em destaque
-- 🔹 [Projeto A](https://github.com/SEU_USUARIO/projeto-a) — descrição curta
-- 🔹 [Projeto B](https://github.com/SEU_USUARIO/projeto-b) — descrição curta
 
 ### O que estou estudando
 - AWS (certificação DVA), testes com Vitest/RTL, CI/CD com GitHub Actions.
