@@ -43,9 +43,6 @@
 
 <!-- Links rápidos -->
 <p>
-  <a href="https://www.linkedin.com/in/eliel-filho-8083a3359/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-eliel-filho-8083a3359?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="mailto:elielfilho9@outlook.com">
     <img src="https://img.shields.io/badge/Email-elielfilhodev@hotmail.com-4A154B?style=flat&logo=minutemailer&logoColor=white"/>
   </a>
