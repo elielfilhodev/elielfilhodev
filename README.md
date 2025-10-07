@@ -26,8 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass"/>
-  
-  <img src="https://cdn.jsdelivr.net/badge/BEM-000?style=for-the-badge&logo=css3&logoColor=white" height="40" alt="BEM"/>
+
 </p>
 
 <h3>Back-end & Database Skills</h3>
