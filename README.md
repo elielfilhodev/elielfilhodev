@@ -36,7 +36,7 @@
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,nodejs" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ### ☁️ Infrastructure & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,nginx,linux,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux" />
 </p>
 
 ---
