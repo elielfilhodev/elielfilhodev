@@ -15,10 +15,10 @@
 
 ## 🚀 About Me
 
-- 🧠 Engineering systems, not just interfaces  
-- ⚡ Performance-focused frontend architecture  
-- 🔐 Security-first backend development  
-- 🌍 Building global-ready applications  
+- 🧠 Engineering systems, not just interfaces
+- ⚡ Performance-focused frontend architecture
+- 🔐 Security-first backend development
+- 🌍 Building global-ready applications
 - 📦 Clean architecture & scalable design  
 
 ---
@@ -28,7 +28,7 @@
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind,vite,webpack" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
 </p>
 
 ---
