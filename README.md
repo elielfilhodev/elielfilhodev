@@ -1,6 +1,6 @@
 <!-- HEADER ANIMADO -->
 <h1 align="center">
-  Hi 👋, I'm Your Name
+  Hi 👋, I'm Eliel Filho
 </h1>
 
 <h3 align="center">
@@ -97,11 +97,11 @@ Production-grade full-stack system simulating a real-world SaaS environment.
 
 ## 🌍 Global Engineering Standards
 
-- 📖 English documentation  
-- 🧠 Architectural decision records  
-- 🧪 Automated testing strategy  
-- 🛡️ Secure coding practices  
-- 📦 Production-ready repositories  
+- 📖 English documentation
+- 🧠 Architectural decision records
+- 🧪 Automated testing strategy
+- 🛡️ Secure coding practices
+- 📦 Production-ready repositories
 
 ---
 
