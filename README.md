@@ -19,7 +19,7 @@
 - ⚡ Performance-focused frontend architecture
 - 🔐 Security-first backend development
 - 🌍 Building global-ready applications
-- 📦 Clean architecture & scalable design  
+- 📦 Clean architecture & scalable design
 
 ---
 
@@ -81,8 +81,8 @@ Production-grade full-stack system simulating a real-world SaaS environment.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elielfilhodev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielfilhodev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
