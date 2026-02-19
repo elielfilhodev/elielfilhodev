@@ -1,81 +1,117 @@
-<h1 align="left">Hello 🌍!</h1>
+<!-- HEADER ANIMADO -->
+<h1 align="center">
+  Hi 👋, I'm Your Name
+</h1>
 
-<p align="left">
-  🇧🇷 Sou desenvolvedor Full Stack focado em front e back. Em 2024, fiz uma grande mudança na carreira e venho construindo produtos com foco em UX, performance e acessibilidade.
-  <br/>
-  🇺🇸 I'm a Full Stack Developer focused on front + back. I love clean UI, smooth DX, and shipping well-tested features.
+<h3 align="center">
+  Frontend Engineer • Java Backend • Building Scalable Systems
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Scalable+Frontend+Architecture;Java+%26+Spring+Boot+Backend;Multi-Tenant+SaaS+Systems;Performance+Driven+Engineering" />
 </p>
-
-<ul>
-  <li>📍 Vivo em <b>Taquarituba, Brasil</b></li>
-  <li>📚 Lifelong learner</li>
-  <li>🎬 No tempo livre: séries, filmes e livros</li>
-  <li>🎮 Gamer Amador</li>
-</ul>
 
 ---
 
-<h3>Front-end Skills</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass"/>
+## 🚀 About Me
 
-</p>
-
-<h3>Back-end & Database Skills</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server"/>
-</p>
-
-<h3>Tools, Task Runners & Other</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="Gulp"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" height="40" alt="Grunt"/>
-</p>
-
-<h3>IDEs & Editors</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="Visual Studio"/>
-  </p>
+- 🧠 Engineering systems, not just interfaces  
+- ⚡ Performance-focused frontend architecture  
+- 🔐 Security-first backend development  
+- 🌍 Building global-ready applications  
+- 📦 Clean architecture & scalable design  
 
 ---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/Goal-AWS%20Developer%20Associate-FF9900?style=flat&logo=amazon-aws" alt="Goal AWS"/>
-  <img src="https://img.shields.io/badge/Focus-React%20%26%20TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="Focus"/>
-</p>
-
-<p>
-  <a href="mailto:elielfilho9@outlook.com">
-    <img src="https://img.shields.io/badge/Email-elielfilhodev@hotmail.com-4A154B?style=flat&logo=minutemailer&logoColor=white"/>
-  </a>
-  <a href="https://elielfilho.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-Online-111111?style=flat&logo=vercel&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind,vite,webpack" />
 </p>
 
 ---
 
-### O que estou estudando
-- **AWS** (certificação DVA), testes com **Vitest/RTL**, **CI/CD** com GitHub Actions.
+### ⚙️ Backend
 
-### Curiosidades
-- Amo componentizar UI, obsessão saudável por **acessibilidade** e cores **HSL** 🎨
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,nodejs" />
+</p>
 
-<p align="left">
-  <em>Feito com ❤️ e café. Atualizado automaticamente quando lembro.</em>
+---
+
+### ☁️ Infrastructure & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,nginx,linux,githubactions" />
+</p>
+
+---
+
+## 🧩 Engineering Focus
+
+- 🏗️ Multi-Tenant SaaS Architecture  
+- 🔐 JWT & OAuth2 Authentication  
+- 📡 Real-Time Systems (WebSockets)  
+- 📊 Data Visualization Dashboards  
+- ⚡ Performance Optimization  
+- 🧪 Automated Testing & CI/CD  
+
+---
+
+## 📌 Featured Project
+
+### SaaS Multi-Tenant Platform
+
+Production-grade full-stack system simulating a real-world SaaS environment.
+
+**Core Features**
+- Multi-tenant data isolation  
+- Role-Based Access Control  
+- Real-time dashboard  
+- Dockerized infrastructure  
+- Clean architecture  
+- CI/CD ready  
+
+🔗 Repository: https://github.com/your-username/project-name  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌍 Global Engineering Standards
+
+- 📖 English documentation  
+- 🧠 Architectural decision records  
+- 🧪 Automated testing strategy  
+- 🛡️ Secure coding practices  
+- 📦 Production-ready repositories  
+
+---
+
+## 📬 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
