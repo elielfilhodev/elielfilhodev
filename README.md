@@ -61,7 +61,7 @@
 ## 📌 Featured Projects
 
 ### 🎵 MeuCarinho
-AI-powered web platform developed from scratch, focused on music generation workflows and modern user experience.
+## AI-powered web platform developed from scratch, focused on music generation workflows and modern user experience.
 
 **Highlights**
 - Full stack architecture
@@ -70,22 +70,22 @@ AI-powered web platform developed from scratch, focused on music generation work
 - Authentication flow
 - Scalable application structure
 
-🔗 Repository: https://github.com/elielfilhodev
+🔗 link: https://meucarinho.com.br
 
 ---
 
 ### 🏢 SaaS Multi-Tenant Platform
-Production-inspired full stack system designed to simulate real-world SaaS architecture.
+## Production-inspired full stack system designed to simulate real-world SaaS architecture.
 
-**Core Features**
-- Multi-tenant data isolation
-- Role-based access control
-- Secure authentication
-- Dashboard architecture
-- Dockerized environment
-- Clean and maintainable codebase
+## **Core Features**
+## - Multi-tenant data isolation
+## - Role-based access control
+## - Secure authentication
+## - Dashboard architecture
+## - Dockerized environment
+## - Clean and maintainable codebase
 
-🔗 Repository: https://github.com/elielfilhodev
+## 🔗 Repository: https://github.com/elielfilhodev
 
 ---
 
@@ -120,10 +120,10 @@ Production-inspired full stack system designed to simulate real-world SaaS archi
 ## 📬 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/eliel-filho-b1b8763b2/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:elielfilholk@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
