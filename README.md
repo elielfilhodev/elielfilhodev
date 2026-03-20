@@ -61,7 +61,7 @@
 ## 📌 Featured Projects
 
 ### 🎵 MeuCarinho
-## AI-powered web platform developed from scratch, focused on music generation workflows and modern user experience.
+<-- AI-powered web platform developed from scratch, focused on music generation workflows and modern user experience.
 
 **Highlights**
 - Full stack architecture
@@ -74,21 +74,21 @@
 
 ---
 
-### 🏢 SaaS Multi-Tenant Platform
+<!-- ### 🏢 SaaS Multi-Tenant Platform
 ## Production-inspired full stack system designed to simulate real-world SaaS architecture.
 
-## **Core Features**
-## - Multi-tenant data isolation
-## - Role-based access control
-## - Secure authentication
-## - Dashboard architecture
-## - Dockerized environment
-## - Clean and maintainable codebase
+**Core Features**
+- Multi-tenant data isolation
+- Role-based access control
+- Secure authentication
+- Dashboard architecture
+- Dockerized environment
+- Clean and maintainable codebase
 
-## 🔗 Repository: https://github.com/elielfilhodev
+🔗 Repository: https://github.com/elielfilhodev
 
 ---
-
+-->
 ## 📊 GitHub Stats
 
 <p align="center">
