@@ -1,151 +1,125 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Eliel Filho</h1>
+<div align="center">
 
-<h3 align="center">
-  💻 Full Stack Software Engineer | ⚛️ React/Next.js | ☕ Java/Spring Boot | 🐍 Python
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Eliel%20Filho&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%7C%20Cybersecurity&descAlignY=58&descColor=a78bfa" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Engineer;Building+scalable+and+modern+web+applications;React+%2F+Next.js+Frontend;Java+%2F+Spring+Boot+Backend;Clean+Architecture+%26+Performance-Driven+Engineering" />
-</p>
+</div>
 
-<p align="center">
-  <a href="https://elielfilho.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:elielfilholk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer+%F0%9F%92%BB;Building+real+products+with+AI+%F0%9F%A4%96;Learning+DevOps+%26+Cloud+%E2%98%81%EF%B8%8F;Exploring+Cybersecurity+%F0%9F%94%90)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Sobre mim
 
-- 💡 Full Stack Software Engineer focused on building modern, scalable and production-ready applications
-- ⚛️ Strong experience with React, Next.js and responsive frontend development
-- ☕ Backend development with Java, Spring Boot and RESTful APIs
-- 🐍 Python for automation, scripting and problem solving
-- 🏗️ Passionate about clean architecture, maintainable systems and software quality
-- 🌍 Preparing for global remote opportunities and international engineering standards
+```java
+public class ElielFilho {
+
+    String[] currentlyBuilding = {"Meu Carinho - SaaS com IA", "Dash Study - Plataforma de produtividade"};
+    String[] currentlyLearning = {"DevOps", "Cloud (AWS, Azure)", "Cybersecurity & Pentest"};
+    String   formation          = "Full Stack Java — EBAC (43% concluído)";
+    String[] interests          = {"Open Source", "SaaS", "AppSec", "AI Products"};
+    String   location           = "Brasil 🇧🇷";
+
+}
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Projetos em destaque
 
-### 🎨 Frontend
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🎵 **[Meu Carinho](https://github.com/elielfilhodev)** | SaaS de geração de músicas com IA + ElevenLabs + Stripe | Next.js, AI, Stripe |
+| 📚 **[Dash Study](https://github.com/elielfilhodev)** | Plataforma de produtividade com gamificação, chat e ranking | React, Node.js |
+| 🎸 **[luthierhossony.com](https://luthierhossony.com)** | Site real para cliente — luthier profissional | HTML, CSS, JS |
+
+---
+
+## 🛠️ Tecnologias
+
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="React" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vue" title="Vue" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=astro" title="Astro" />
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,postgres" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" title="Express" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" title="Go" />
 </p>
 
-### ☁️ DevOps & Tools
+### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" />
 </p>
 
----
+### DevOps & Cloud *(em aprendizado)*
+<p>
+  <img src="https://skillicons.dev/icons?i=azure" title="Azure" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+</p>
 
-## 🧠 Engineering Focus
+### Cybersecurity *(em aprendizado)*
 
-- 🏗️ Scalable Full Stack Applications  
-- 🧩 Clean Architecture  
-- 🔐 Authentication & Authorization  
-- 📡 REST APIs and Integrations  
-- ⚡ Performance Optimization  
-- 📱 Responsive UI/UX  
-- 🧪 Testing and Code Quality  
-- 🚀 CI/CD and Dockerized Environments  
-
----
-
-## 📌 Featured Projects
-
-### 🎵 MeuCarinho
-AI-powered web platform developed from scratch, focused on music generation workflows and modern user experience.
-
-**Highlights**
-- 🎼 External API integrations
-- 🔐 Authentication flow
-- 💻 Responsive interface
-- 🧱 Scalable full stack structure
-- 🎯 Product-focused development
-
-🔗 **Website:** [meucarinho.com.br](https://meucarinho.com.br)  
-🔗 **Portfolio:** [elielfilho.vercel.app](https://elielfilho.vercel.app)
+> 🔐 Estudando: Pentest, OWASP Top 10, HTB (Hack The Box), ParrotOS, nmap, Burp Suite, ferramentas de segurança ofensiva e defensiva
 
 ---
 
-<!--### 🏢 SaaS Multi-Tenant Platform
-Production-inspired full stack project designed to simulate real-world SaaS architecture.
-
-**Core Features**
-- 🏢 Multi-tenant data isolation  
-- 👥 Role-based access control  
-- 📊 Dashboard architecture  
-- 🐳 Dockerized environment  
-- 🧼 Clean and maintainable codebase  
-- 🚀 CI/CD-ready mindset  
-
-🔗 **Repository:** [Add your repository here](https://github.com/elielfilhodev)
-
----
--->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elielfilhodev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielfilhodev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elielfilhodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielfilhodev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=elielfilhodev&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
 
 ---
 
-## 📈 Contribution Activity
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elielfilhodev&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌍 Professional Values
-
-- 📖 Clean and readable code  
-- 🧠 Scalable software design  
-- 🔐 Secure engineering practices  
-- ⚙️ Performance-oriented development  
-- 📦 Production-ready projects  
-- 📚 Continuous learning and improvement  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elielfilhodev&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
 
 ---
 
-## 📬 Connect With Me
+## 📫 Contato
 
-<p align="left">
-  <a href="https://elielfilho.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" />
-  </a>
-  <a href="mailto:elielfilholk@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/eliel-filho-b1b8763b2/?locale=pt-BR" target="_blank">
-  <a href="" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/elielfilhodev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elielfilhodev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elielfilhodev)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Building software with purpose, scalability and clean engineering principles.</i>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+</div>
