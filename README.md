@@ -1,114 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Eliel%20Filho&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%7C%20Cybersecurity&descAlignY=58&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Eliel%20Filho&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20Java&descAlignY=58&descColor=a78bfa" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer+%F0%9F%92%BB;Building+real+products+with+AI+%F0%9F%A4%96;Learning+DevOps+%26+Cloud+%E2%98%81%EF%B8%8F;Exploring+Cybersecurity+%F0%9F%94%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Construindo+produtos+reais+de+ponta+a+ponta;Next.js+%2B+Node.js+%2B+Java+Spring+Boot;Aprendendo+Go+na+pr%C3%A1tica)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
+
+22 anos, desenvolvedor Full Stack no Brasil. Construo produtos completos — do banco de dados à interface — com foco em decisões técnicas justificáveis, não em empilhar tecnologia por modismo. Atualmente gerencio o e-commerce de uma empresa de celulares e desenvolvo projetos próprios e para clientes.
 
 ```java
 public class ElielFilho {
-
-    String[] currentlyBuilding = {"Meu Carinho - SaaS com IA", "Dash Study - Plataforma de produtividade"};
-    String[] currentlyLearning = {"DevOps", "Cloud (AWS, Azure)", "Cybersecurity & Pentest"};
-    String   formation          = "Full Stack Java — EBAC (43% concluído)";
-    String[] interests          = {"Open Source", "SaaS", "AppSec", "AI Products"};
-    String   location           = "Brasil 🇧🇷";
-
+    String   role         = "Full Stack Developer";
+    String[] coreStack    = {"Next.js", "Node.js", "Java (Spring Boot)", "Python"};
+    String   learning     = "Go";
+    String[] building     = {"Top Cell — e-commerce platform", "Wishlist app (Next.js + Prisma + NeonDB)"};
+    String   location     = "Brasil";
 }
 ```
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 🎵 **[Meu Carinho](https://github.com/elielfilhodev)** | SaaS de geração de músicas com IA + ElevenLabs + Stripe | Next.js, AI, Stripe |
-| 📚 **[Dash Study](https://github.com/elielfilhodev)** | Plataforma de produtividade com gamificação, chat e ranking | React, Node.js |
-| 🎸 **[luthierhossony.com](https://luthierhossony.com)** | Site real para cliente — luthier profissional | HTML, CSS, JS |
+### 🎵 [Meu Carinho](https://meucarinho.com.br)
+Plataforma de geração de músicas com IA, construída sozinho do zero — arquitetura, backend, frontend e integração de pagamento. Decisão de stack: Next.js para SSR/SEO em página de conversão, priorizando time-to-market sobre customização de infra.
 
----
+### 📱 Top Cell — E-commerce Platform
+Plataforma completa para loja de eletrônicos, dividida em 3 repositórios: storefront (Next.js), backoffice (Next.js) e API (Spring Boot), com integração de pagamento e emissão fiscal (NF-e) para o mercado brasileiro. Autenticação customizada com Clerk (fluxo próprio, não componentes prontos) para controle total de UX.
 
-## 🛠️ Tecnologias
+### 🏥 Sistema de Agendamento Clínico (freelance/protótipo)
+App fullstack para recepção de clínica (Next.js 14, Prisma, NeonDB, NextAuth v5), escopo deliberadamente restrito a agendamento interno — sem autoatendimento de paciente nem prontuário, reduzindo superfície de risco e complexidade regulatória (LGPD/dados de saúde). Prototipado primeiro em HTML navegável antes de qualquer linha de código em produção.
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" title="React" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vue" title="Vue" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=angular" title="Angular" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=astro" title="Astro" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java" title="Java" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" title="Python" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" title="Express" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=go" title="Go" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" title="Redis" />
-</p>
-
-### DevOps & Cloud *(em aprendizado)*
-<p>
-  <img src="https://skillicons.dev/icons?i=azure" title="Azure" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
-</p>
-
-### Cybersecurity *(em aprendizado)*
-
-> 🔐 Estudando: Pentest, OWASP Top 10, HTB (Hack The Box), ParrotOS, nmap, Burp Suite, ferramentas de segurança ofensiva e defensiva
+### 🎸 [luthierhossony.com](https://luthierhossony.com)
+Site institucional entregue para cliente real (luthier profissional).
 
 ---
 
-## 📊 GitHub Stats
+## Stack
+
+**Frontend**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+**Backend**
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,go" />
+</p>
+
+**Banco de dados**
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+</p>
+
+**DevOps / Ferramentas**
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,figma" />
+</p>
+
+> Go está em aprendizado ativo, não em produção ainda.
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elielfilhodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielfilhodev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=elielfilhodev&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=elielfilhodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielfilhodev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elielfilhodev&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-## 📫 Contato
+## Contato
 
 <div align="center">
 
@@ -118,8 +89,6 @@ public class ElielFilho {
 
 </div>
 
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=90&section=footer" />
 </div>
