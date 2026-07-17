@@ -33,11 +33,11 @@ public class ElielFilho {
 ### 🎵 [Meu Carinho](https://meucarinho.com.br)
 Plataforma de geração de músicas com IA, construída sozinho do zero — arquitetura, backend, frontend e integração de pagamento. Decisão de stack: Next.js para SSR/SEO em página de conversão, priorizando time-to-market sobre customização de infra.
 
-### 📱 Top Cell — E-commerce Platform
-Plataforma completa para loja de eletrônicos, dividida em 3 repositórios: storefront (Next.js), backoffice (Next.js) e API (Spring Boot), com integração de pagamento e emissão fiscal (NF-e) para o mercado brasileiro. Autenticação customizada com Clerk (fluxo próprio, não componentes prontos) para controle total de UX.
+<!--### 📱 Top Cell — E-commerce Platform
+Plataforma completa para loja de eletrônicos, dividida em 3 repositórios: storefront (Next.js), backoffice (Next.js) e API (Spring Boot), com integração de pagamento e emissão fiscal (NF-e) para o mercado brasileiro. Autenticação customizada com Clerk (fluxo próprio, não componentes prontos) para controle total de UX. -->
 
-### 🏥 Sistema de Agendamento Clínico (freelance/protótipo)
-App fullstack para recepção de clínica (Next.js 14, Prisma, NeonDB, NextAuth v5), escopo deliberadamente restrito a agendamento interno — sem autoatendimento de paciente nem prontuário, reduzindo superfície de risco e complexidade regulatória (LGPD/dados de saúde). Prototipado primeiro em HTML navegável antes de qualquer linha de código em produção.
+<!--### 🏥 Sistema de Agendamento Clínico (freelance/protótipo)
+App fullstack para recepção de clínica (Next.js 14, Prisma, NeonDB, NextAuth v5), escopo deliberadamente restrito a agendamento interno — sem autoatendimento de paciente nem prontuário, reduzindo superfície de risco e complexidade regulatória (LGPD/dados de saúde). Prototipado primeiro em HTML navegável antes de qualquer linha de código em produção. -->
 
 ### 🎸 [luthierhossony.com](https://luthierhossony.com)
 Site institucional entregue para cliente real (luthier profissional).
