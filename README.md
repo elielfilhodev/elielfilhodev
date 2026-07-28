@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="100%"/>
+<img src="wapp.jpg" width="100%"/>
 
 <br>
 
@@ -24,7 +24,7 @@
 
 # About Me
 
-<img align="right" width="250" src="programmer.png"/>
+<img align="right" width="250" src="herms.jpg"/>
 
 Software Engineer from Brazil 🇧🇷
 
