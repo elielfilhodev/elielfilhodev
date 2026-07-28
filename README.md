@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=elielfilhodev&style=for-the-badge"/>
 
 </div>
 
@@ -101,9 +101,9 @@ My goal is to become a Software Engineer capable of designing reliable, secure a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=elielfilhodev&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=github-dark-blue&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=elielfilhodev&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -111,7 +111,7 @@ My goal is to become a Software Engineer capable of designing reliable, secure a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielfilhodev&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -121,7 +121,7 @@ My goal is to become a Software Engineer capable of designing reliable, secure a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elielfilhodev&theme=github-dark&hide_border=true"/>
 
 </div>
 
