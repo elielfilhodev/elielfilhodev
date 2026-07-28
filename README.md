@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="wapp.jpg" width="100%"/>
+<img src="download.jpg" width="100%"/>
 
 <br>
 
