@@ -53,63 +53,45 @@ My goal is to become a Software Engineer capable of designing reliable, secure a
 
 <div align="center">
 
-### Backend
-
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
-
-![Spring](https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot)
-
-![Hibernate](https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate)
-
-![Maven](https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=apachemaven)
+# Technologies
 
 ---
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
-
----
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+### DevOps
 
-![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
-
----
-
-### DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
-
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
----
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-
-![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea)
-
-![VSCode](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
-
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
