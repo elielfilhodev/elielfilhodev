@@ -1,136 +1,102 @@
-<div align="center">
+<h1 align="center">Eliel</h1>
 
-<img src="download.jpg" width="100%"/>
+<p align="center">
+  <strong>Full Stack Developer</strong> · TypeScript · Node.js · Next.js · PostgreSQL<br>
+  I build e-commerce and internal systems that run in production — and I keep them running.
+</p>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+TypeScript;Cloud+%7C+Docker+%7C+DevOps;Always+Learning+New+Technologies"/>
-
-<br><br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://elielfilho.vercel.app)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINK)
-
-[![Email](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=elielfilhodev&style=for-the-badge"/>
-
-</div>
+<p align="center">
+  <a href="{{LINKEDIN_URL}}"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:{{EMAIL}}"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="{{PORTFOLIO_URL}}"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+</p>
 
 ---
 
-# About Me
+## About
 
-<img align="right" width="250" src="herms.jpg"/>
+I'm a full stack developer based in Brazil, working at the intersection of **software engineering and real retail operations**. I currently run e-commerce for a mobile phone retail chain — which means I don't just ship features, I live with the consequences: broken checkouts, fiscal compliance, inventory drift, support tickets at 9pm.
 
-Software Engineer from Brazil 🇧🇷
+That perspective shapes how I build. I favour **boring, maintainable architecture** over clever abstractions, and I design for the failure cases first — offline machines, payment gateways timing out, tax rules that change next quarter.
 
-I'm passionate about building scalable applications and learning modern software engineering practices.
-
-Currently focused on:
-
-- Java 21
-- Spring Boot
-- React & Next.js
-- TypeScript
-- REST APIs
-- PostgreSQL
-- Docker
-- Cloud
-- DevOps
-- Clean Architecture
-- Domain Driven Design
-- Microservices
-
-My goal is to become a Software Engineer capable of designing reliable, secure and scalable systems while continuously improving my technical skills.
+- 🛒 Domain focus: **e-commerce, payments, and back-office systems**
+- 🌍 Open to **remote (EU/US timezones)** and **relocation to Europe**
+- 🗣️ Portuguese (native) · English (professional working proficiency)
 
 ---
 
-# Tech Stack
+## Selected Work
 
-<div align="center">
+### 🛍️ Top Cell — E-commerce Platform
+Modular monolith for a mobile phone retail chain: customer storefront, back-office, and a domain API.
 
-# Technologies
+**Stack:** Next.js · Clerk · shadcn/ui · Java (Spring Boot) · PostgreSQL · Redis · Flyway
+**Why it's built this way:** a modular monolith gave clear domain boundaries without the operational cost of microservices for a single-team project. Payment providers (Pagar.me / Mercado Pago) and fiscal document emission sit behind interfaces, so swapping a provider is a module change — not a rewrite.
 
----
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps
-
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+→ [Repository]({{REPO_TOPCELL}})
 
 ---
 
-# GitHub Statistics
+### 🎵 meucarinho.com.br — AI Music Generation Platform
+Solo-shipped product: personalised AI-generated songs, from landing page to payment to delivery.
 
-<div align="center">
+**Stack:** Next.js · Node.js · PostgreSQL · payment integration · custom back-office
+**Why it matters:** end-to-end ownership — pricing, checkout flow, async generation pipeline, admin tooling, and post-sale support. Shipping alone forces ruthless scope decisions.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=elielfilhodev&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=elielfilhodev&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielfilhodev&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+→ [Live site](https://meucarinho.com.br) · [Repository]({{REPO_MEUCARINHO}})
 
 ---
 
-# Contribution Graph
+### 🧾 Offline-First POS — Local Point of Sale
+Point-of-sale system for a small food business, designed to work with **zero internet dependency**.
 
-<div align="center">
+**Stack:** Next.js · Fastify · TypeScript · SQLite (Prisma) · ESC/POS thermal printing
+**Key decision:** the whole system runs on a single machine, because a snack shop can't stop selling when the connection drops. Fiscal document emission is abstracted behind an `EmissorDocumento` interface, so NFC-e compliance becomes a modular swap instead of a refactor.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elielfilhodev&theme=github-dark&hide_border=true"/>
-
-</div>
+→ [Repository]({{REPO_POS}})
 
 ---
 
-<div align="center">
+### 🏥 Clinic Scheduling System
+Appointment platform with role-based access (Admin, Doctor, Receptionist).
 
-### "First, solve the problem. Then, write the code."
+**Stack:** Next.js (App Router) · Prisma · NeonDB · NextAuth
+**Why it's built this way:** authorisation enforced server-side per role, not hidden in the UI — the most common access-control mistake in scheduling apps.
 
-**John Johnson**
+→ [Repository]({{REPO_CLINIC}})
 
-</div>
+---
+
+## Tech I Actually Use
+
+**Languages**
+`TypeScript` `JavaScript` `Java` `SQL`
+
+**Frontend**
+`Next.js` `React` `Tailwind CSS` `shadcn/ui`
+
+**Backend**
+`Node.js` `Fastify` `Spring Boot` `Prisma` `Zod` `REST APIs`
+
+**Data**
+`PostgreSQL` `SQLite` `Redis` `Flyway`
+
+**Tooling & Ops**
+`Docker` `Git` `GitHub Actions` `Vitest` `Linux (Ubuntu)` `Vercel`
+
+> I list what I've shipped with, not what I've read about. Happy to learn the rest on the job.
+
+---
+
+## Currently
+
+- Building a **production-grade Fastify + TypeScript backend** with layered architecture, Zod validation, Vitest coverage and CI on GitHub Actions — as a reference implementation, not a toy project.
+- Deepening **Civil Engineering** fundamentals, with a long-term interest in **construtech / BIM automation** (Revit API, IFC pipelines) — where structured domain knowledge meets software.
+
+---
+
+## Let's Talk
+
+If you're hiring for **frontend or full stack roles in e-commerce, fintech-adjacent products, or internal tooling**, I'd be glad to talk.
+
+📫 **{{EMAIL}}** · 💼 **[LinkedIn]({{LINKEDIN_URL}})**
