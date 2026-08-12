@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/📍_S%C3%A3o_Paulo-Brasil-1E40AF?style=flat-square" />
 <img src="https://img.shields.io/badge/💼_Aberto_a-Oportunidades-16A34A?style=flat-square" />
 <img src="https://img.shields.io/badge/🏠_Modelo-Remoto_%7C_H%C3%ADbrido-7C3AED?style=flat-square" />
-<img src="https://komarev.com/ghpvc/?elielfilhodev={{GITHUB_USER}}&style=flat-square&color=0EA5E9&label=Visitas+no+perfil" />
+<img src="https://komarev.com/ghpvc/?username={{elielfilhodev}}&style=flat-square&color=0EA5E9&label=Visitas+no+perfil" />
 
 </div>
 
@@ -47,15 +47,15 @@ Isso moldou meu jeito de construir: prefiro **arquitetura previsível e manuten�
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?elielfilhodev={{GITHUB_USER}}&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&locale=pt-br" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?elielfilhodev={{GITHUB_USER}}&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&langs_count=8&locale=pt-br" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{elielfilhodev}}&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&langs_count=8&locale=pt-br" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user={{GITHUB_USER}}&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&locale=pt_BR" width="70%" />
+<img src="https://streak-stats.demolab.com?user={{elielfilhodev}}&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&locale=pt_BR" width="70%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?elielfilhodev={{GITHUB_USER}}&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=FFFFFF&area=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username={{elielfilhodev}}&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=FFFFFF&area=true" width="98%" />
 
 </div>
 
@@ -65,7 +65,7 @@ Isso moldou meu jeito de construir: prefiro **arquitetura previsível e manuten�
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?elielfilhodev={{GITHUB_USER}}&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="98%" />
+<img src="https://github-profile-trophy.vercel.app/?username={{elielfilhodev}}&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="98%" />
 
 </div>
 
@@ -243,9 +243,9 @@ Aprofundando fundamentos de Engenharia Civil com foco em automação BIM (Revit 
 
 Se você contrata para vagas **frontend ou full stack** em e-commerce, produtos com pagamento ou ferramentas internas, será um prazer conversar.
 
-<a href="https://linkedin.com/in/{{LINKEDIN_USER}}"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/{{https://www.linkedin.com/in/eliel-filho-dev/}}"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:{{EMAIL}}"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/55{{WHATSAPP}}"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://wa.me/55{{14998233642}}"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <br/><br/>
 
