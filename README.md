@@ -6,17 +6,17 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/{{LINKEDIN_USER}}"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:{{EMAIL}}"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/eliel-filho-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:elielfilholk@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="{{PORTFOLIO_URL}}"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://wa.me/55{{WHATSAPP}}"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://wa.me/5514998233642"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/📍_S%C3%A3o_Paulo-Brasil-1E40AF?style=flat-square" />
 <img src="https://img.shields.io/badge/💼_Aberto_a-Oportunidades-16A34A?style=flat-square" />
 <img src="https://img.shields.io/badge/🏠_Modelo-Remoto_%7C_H%C3%ADbrido-7C3AED?style=flat-square" />
-<img src="https://komarev.com/ghpvc/?username={{elielfilhodev}}&style=flat-square&color=0EA5E9&label=Visitas+no+perfil" />
+<img src="https://komarev.com/ghpvc/?username=elielfilhodev&style=flat-square&color=0EA5E9&label=Visitas+no+perfil" />
 
 </div>
 
@@ -46,16 +46,16 @@ Isso moldou meu jeito de construir: prefiro **arquitetura previsível e manuten�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?elielfilhodev={{GITHUB_USER}}&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&locale=pt-br" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{elielfilhodev}}&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&langs_count=8&locale=pt-br" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elielfilhodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&locale=pt-br" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielfilhodev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&langs_count=8&locale=pt-br" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user={{elielfilhodev}}&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&locale=pt_BR" width="70%" />
+<img src="https://streak-stats.demolab.com?user=elielfilhodev&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&locale=pt_BR" width="70%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username={{elielfilhodev}}&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=FFFFFF&area=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elielfilhodev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=FFFFFF&area=true" width="98%" />
 
 </div>
 
@@ -65,7 +65,7 @@ Isso moldou meu jeito de construir: prefiro **arquitetura previsível e manuten�
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username={{elielfilhodev}}&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="98%" />
+<img src="https://github-profile-trophy.vercel.app/?username=elielfilhodev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="98%" />
 
 </div>
 
@@ -182,7 +182,6 @@ Site de um luthier profissional, construído **sem framework**: HTML, CSS e Java
 **Decisão técnica:** o problema era vitrine e captação de contato, não aplicação. Framework aqui só adicionaria bundle, build e superfície de manutenção. Sem JavaScript de terceiros, a página carrega quase instantaneamente, indexa bem e continua funcionando daqui a três anos sem `npm audit fix`. Escolher a ferramenta menor é uma decisão de engenharia, não falta dela.
 
 [![Acessar site](https://img.shields.io/badge/Acessar_site-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white)](https://luthierhossony.com)
-[![Repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white)]({{REPO_LUTHIER}})
 
 </details>
 
@@ -197,7 +196,6 @@ Produto solo: músicas personalizadas geradas por IA — da landing page ao paga
 **Decisão técnica:** a geração é assíncrona, com estados persistidos. O cliente paga, recebe confirmação imediata e o processamento pesado acontece fora do ciclo de request — request travado esperando IA é timeout garantido e experiência ruim. O backoffice existe porque suporte sem ferramenta vira consulta manual no banco.
 
 [![Acessar site](https://img.shields.io/badge/Acessar_site-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white)](https://meucarinho.com.br)
-[![Repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white)]({{REPO_MEUCARINHO}})
 
 </details>
 
@@ -243,9 +241,9 @@ Aprofundando fundamentos de Engenharia Civil com foco em automação BIM (Revit 
 
 Se você contrata para vagas **frontend ou full stack** em e-commerce, produtos com pagamento ou ferramentas internas, será um prazer conversar.
 
-<a href="https://linkedin.com/in/{{https://www.linkedin.com/in/eliel-filho-dev/}}"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:{{EMAIL}}"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/55{{14998233642}}"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/eliel-filho-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:elielfilholk@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/5514998233642"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <br/><br/>
 
