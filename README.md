@@ -205,10 +205,10 @@ Produto solo: músicas personalizadas geradas por IA — da landing page ao paga
 
 | | Título | Instituição | Ano |
 |:--:|:-------|:------------|:---:|
-| 🎓 | Técnico em Análise e Desenvolvimento de Sistemas | ETEC de Taquarituba | {{ANO}} |
-| 📜 | {{CERTIFICACAO_1}} | {{INSTITUICAO_1}} | {{ANO_1}} |
-| 📜 | {{CERTIFICACAO_2}} | {{INSTITUICAO_2}} | {{ANO_2}} |
-| 🌐 | Inglês — nível profissional | — | — |
+| 🎓 | Técnico em Análise e Desenvolvimento de Sistemas | ETEC de Taquarituba | 2021 |
+| 📜 | Exam Prep Summary: AWS Certified
+Developer - Associate (DVA-C02) | AWS Training & Certification | 2026 |
+| 📜 | Full Stack Java | EBAC | 2026 |
 
 ---
 
