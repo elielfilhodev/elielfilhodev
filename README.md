@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:0EA5E9&height=200&section=header&text=Eliel&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20TypeScript%20%C2%B7%20Node.js%20%C2%B7%20Next.js&descAlignY=55&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+TypeScript+%26+Node.js;E-commerce%2C+pagamentos+e+sistemas+internos;C%C3%B3digo+limpo%2C+seguro+e+escal%C3%A1vel" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Backend+Java+Developer+%7C+TypeScript+%26+Node.js;E-commerce%2C+pagamentos+e+sistemas+internos;C%C3%B3digo+limpo%2C+seguro+e+escal%C3%A1vel" alt="Typing SVG" />
 
 <br/>
 
